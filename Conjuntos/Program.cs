@@ -44,11 +44,11 @@ namespace Conjuntos
                 C.Add(x);
             }
 
-            HashSet<int> Novo = new HashSet<int>();
-            Novo.UnionWith(A);
-            Novo.UnionWith(B);
-            Novo.UnionWith(C);
-            Console.WriteLine("Total de Alunos: " + Novo.Count);
+            HashSet<int> Novo1 = new HashSet<int>();
+            Novo1.UnionWith(A);
+            Novo1.UnionWith(B);
+            Novo1.UnionWith(C);
+            Console.WriteLine("Total de Alunos: " + Novo1.Count);
             Console.ReadLine();
         }
     }
