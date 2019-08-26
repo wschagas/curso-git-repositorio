@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\bin\Debug\ExerciosListas.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\bin\Debug\ExerciosListas.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\bin\Debug\ExerciosListas.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\obj\Debug\ExerciosListas.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\obj\Debug\ExerciosListas.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\obj\Debug\ExerciosListas.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciosListas\obj\Debug\ExerciosListas.pdb

@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\obj\Debug\Conjuntos.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\obj\Debug\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\obj\Debug\Conjuntos.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Conjuntos\obj\Debug\Conjuntos.pdb

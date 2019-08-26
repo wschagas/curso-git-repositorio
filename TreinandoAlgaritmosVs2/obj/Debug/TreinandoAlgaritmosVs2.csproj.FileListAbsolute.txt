@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\bin\Debug\TreinandoAlgaritmosVs2.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\bin\Debug\TreinandoAlgaritmosVs2.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\bin\Debug\TreinandoAlgaritmosVs2.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\obj\Debug\TreinandoAlgaritmosVs2.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\obj\Debug\TreinandoAlgaritmosVs2.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\obj\Debug\TreinandoAlgaritmosVs2.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\TreinandoAlgaritmosVs2\obj\Debug\TreinandoAlgaritmosVs2.pdb

@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\bin\Debug\ExerciciosVetores.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\bin\Debug\ExerciciosVetores.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\bin\Debug\ExerciciosVetores.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\obj\Debug\ExerciciosVetores.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\obj\Debug\ExerciciosVetores.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\obj\Debug\ExerciciosVetores.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExerciciosVetores\obj\Debug\ExerciciosVetores.pdb

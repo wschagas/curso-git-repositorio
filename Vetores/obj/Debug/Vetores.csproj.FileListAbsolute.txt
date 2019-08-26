@@ -1,0 +1,6 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\bin\Debug\Vetores.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\bin\Debug\Vetores.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\obj\Debug\Vetores.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\Vetores\obj\Debug\Vetores.pdb

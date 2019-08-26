@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\bin\Debug\MostrarContaBancaria.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\bin\Debug\MostrarContaBancaria.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\bin\Debug\MostrarContaBancaria.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\obj\Debug\MostrarContaBancaria.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\obj\Debug\MostrarContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\obj\Debug\MostrarContaBancaria.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\MostrarContaBancaria\obj\Debug\MostrarContaBancaria.pdb

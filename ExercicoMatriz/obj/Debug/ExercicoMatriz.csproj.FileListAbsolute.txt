@@ -1,0 +1,7 @@
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\bin\Debug\ExercicoMatriz.exe.config
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\bin\Debug\ExercicoMatriz.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\bin\Debug\ExercicoMatriz.pdb
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\obj\Debug\ExercicoMatriz.csprojAssemblyReference.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\obj\Debug\ExercicoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\obj\Debug\ExercicoMatriz.exe
+C:\Users\wesley.chagas\source\repos\TreinandoAlgaritmosVs2\ExercicoMatriz\obj\Debug\ExercicoMatriz.pdb
